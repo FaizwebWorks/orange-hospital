@@ -1,0 +1,498 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "Orange Hospital Navsari" [ref=e7] [cursor=pointer]:
+        - /url: "#home"
+        - img [ref=e9]
+        - generic [ref=e11]:
+          - heading "Orange Hospital" [level=1] [ref=e12]
+          - paragraph [ref=e13]: Navsari
+      - navigation [ref=e14]:
+        - link "Home" [ref=e15] [cursor=pointer]:
+          - /url: "#home"
+        - link "About Us" [ref=e16] [cursor=pointer]:
+          - /url: "#about"
+        - link "Facilities" [ref=e17] [cursor=pointer]:
+          - /url: "#facilities"
+        - link "Doctors" [ref=e18] [cursor=pointer]:
+          - /url: "#doctors"
+        - link "Gallery" [ref=e19] [cursor=pointer]:
+          - /url: "#gallery"
+        - link "Contact" [ref=e20] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e21]:
+        - link "Emergency" [ref=e22] [cursor=pointer]:
+          - /url: tel:02637245500
+          - img [ref=e23]
+          - generic [ref=e25]: Emergency
+        - button "Book Appointment" [ref=e26] [cursor=pointer]:
+          - img [ref=e27]
+          - generic [ref=e29]: Book Appointment
+  - main [ref=e30]:
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - img [ref=e39]
+          - generic [ref=e41]: Trusted Healthcare since 2011
+        - heading "We're here when you need us, for every care in the world." [level=1] [ref=e42]
+        - paragraph [ref=e43]: Advanced medical care and dedicated teams leading the way to better medicine in Navsari, Gujarat.
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - img [ref=e46]
+            - textbox "Search for a doctor or specialty..." [ref=e49]
+          - button "Book OPD Checkup" [ref=e50] [cursor=pointer]:
+            - img [ref=e51]
+            - generic [ref=e53]: Book OPD Checkup
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - img [ref=e56]
+            - generic [ref=e58]: 4.8+ Patient Rating
+          - generic [ref=e59]:
+            - img [ref=e60]
+            - generic [ref=e63]: 24/7 Available
+      - generic [ref=e65]:
+        - generic [ref=e68]:
+          - img "Orange Hospital - Navsari" [ref=e69]
+          - generic [ref=e71]:
+            - img [ref=e73]
+            - generic [ref=e75]:
+              - heading "Orange Hospital" [level=3] [ref=e76]
+              - paragraph [ref=e77]: Navsari, Gujarat
+        - link [ref=e78] [cursor=pointer]:
+          - /url: tel:02637245500
+          - img [ref=e79]
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - img [ref=e88]
+          - paragraph [ref=e90]:
+            - generic [ref=e91]: 0+
+          - paragraph [ref=e92]: Surgeries Performed
+        - generic [ref=e93]:
+          - img [ref=e96]
+          - paragraph [ref=e100]:
+            - generic [ref=e101]: 0+
+          - paragraph [ref=e102]: Expert Doctors
+        - generic [ref=e103]:
+          - img [ref=e106]
+          - paragraph [ref=e108]: "0"
+          - paragraph [ref=e109]: Emergency Care
+        - generic [ref=e110]:
+          - img [ref=e113]
+          - paragraph [ref=e115]:
+            - generic [ref=e116]: 0+
+          - paragraph [ref=e117]: Years of Excellence
+      - generic [ref=e119]:
+        - generic [ref=e121]:
+          - img "Dr. B.B. Hirpara" [ref=e122]
+          - generic [ref=e125]:
+            - img [ref=e126]
+            - generic [ref=e128]:
+              - paragraph [ref=e129]: 15,000+
+              - paragraph [ref=e130]: Successful Surgeries
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - img [ref=e133]
+            - generic [ref=e137]: Our Pioneer
+          - heading "Dr. B.B. Hirpara (M.S.)" [level=3] [ref=e138]
+          - paragraph [ref=e139]: With over 18+ years of excellence in medical care, Dr. B.B. Hirpara established Orange Hospital in 2011 with a vision to provide advanced healthcare to Navsari and surrounding regions.
+          - paragraph [ref=e140]: A pioneer in laparoscopic, endoscopic, and advanced urological surgeries, having performed over 15,000 successful surgeries. Formerly at Shivani Surgical Hospital.
+          - generic [ref=e141]:
+            - generic [ref=e142]: Laparoscopic Surgery
+            - generic [ref=e143]: Endoscopy
+            - generic [ref=e144]: Urology
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - img [ref=e148]
+              - img [ref=e153]
+              - img [ref=e158]
+            - generic [ref=e162]:
+              - paragraph [ref=e163]: 21+ Expert Doctors
+              - paragraph [ref=e164]: Working together
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - heading "Our Facilities" [level=2] [ref=e168]
+        - paragraph [ref=e169]: State-of-the-art medical facilities equipped with the latest technology to provide you with the best healthcare.
+      - generic [ref=e170]:
+        - generic [ref=e171] [cursor=pointer]:
+          - img [ref=e173]
+          - heading "24x7 Emergency Care" [level=3] [ref=e178]
+          - paragraph [ref=e179]: Round-the-clock emergency services with rapid response team and fully equipped ambulances.
+          - generic [ref=e180]:
+            - link "Call Now" [ref=e181]:
+              - /url: tel:02637245500
+            - button "Book" [ref=e182]
+          - generic [ref=e183]: 24/7
+        - generic [ref=e184] [cursor=pointer]:
+          - img [ref=e186]
+          - heading "X-Rays & Ultrasonography" [level=3] [ref=e191]
+          - paragraph [ref=e192]: Advanced imaging diagnostics with state-of-the-art digital X-Ray and 4D ultrasound machines.
+        - generic [ref=e193] [cursor=pointer]:
+          - img [ref=e195]
+          - heading "ECHO & TMT Test" [level=3] [ref=e198]
+          - paragraph [ref=e199]: Comprehensive cardiac diagnostics including Echocardiography and Treadmill Test.
+        - generic [ref=e200] [cursor=pointer]:
+          - img [ref=e202]
+          - heading "Dialysis Center" [level=3] [ref=e205]
+          - paragraph [ref=e206]: Advanced renal care with modern dialysis facilities and expert nephrology support.
+        - generic [ref=e207] [cursor=pointer]:
+          - img [ref=e209]
+          - heading "Medicine Pharmacy" [level=3] [ref=e212]
+          - paragraph [ref=e213]: In-house pharmacy with comprehensive medical supplies available 24/7.
+        - generic [ref=e214] [cursor=pointer]:
+          - img [ref=e216]
+          - heading "OPD Checkup" [level=3] [ref=e220]
+          - paragraph [ref=e221]: General and specialized outpatient consultations with experienced doctors.
+    - generic [ref=e223]:
+      - generic [ref=e224]:
+        - heading "Find a Doctor" [level=2] [ref=e225]
+        - paragraph [ref=e226]: Search from our 21+ highly qualified specialists across various departments
+      - generic [ref=e227]:
+        - generic [ref=e228]:
+          - img [ref=e229]
+          - textbox "Search doctors by name or specialty..." [ref=e232]
+        - generic [ref=e233]:
+          - button "All" [ref=e234]
+          - button "General Surgery" [ref=e235]
+          - button "Cardiology" [ref=e236]
+          - button "Urology" [ref=e237]
+          - button "Gynecology" [ref=e238]
+          - button "Orthopedics" [ref=e239]
+          - button "Pediatrics" [ref=e240]
+          - button "Neurology" [ref=e241]
+          - button "Dermatology" [ref=e242]
+          - button "Gastroenterology" [ref=e243]
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - img [ref=e248]
+            - generic [ref=e252]:
+              - heading "Dr. B.B. Hirpara" [level=4] [ref=e253]
+              - paragraph [ref=e254]: M.S.
+              - paragraph [ref=e255]: 18+ Years
+            - generic [ref=e256]: Available
+          - generic [ref=e257]:
+            - img [ref=e258]
+            - generic [ref=e262]: General Surgery
+          - generic [ref=e263]:
+            - img [ref=e264]
+            - generic [ref=e267]: 9AM - 5PM
+          - button "Book Appointment" [ref=e268]:
+            - generic [ref=e269]: Book Appointment
+            - img [ref=e270]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - img [ref=e275]
+            - generic [ref=e279]:
+              - heading "Dr. Smita Patel" [level=4] [ref=e280]
+              - paragraph [ref=e281]: MD, DM
+              - paragraph [ref=e282]: 15+ Years
+            - generic [ref=e283]: Available
+          - generic [ref=e284]:
+            - img [ref=e285]
+            - generic [ref=e289]: Cardiology
+          - generic [ref=e290]:
+            - img [ref=e291]
+            - generic [ref=e294]: 10AM - 4PM
+          - button "Book Appointment" [ref=e295]:
+            - generic [ref=e296]: Book Appointment
+            - img [ref=e297]
+        - generic [ref=e299]:
+          - generic [ref=e300]:
+            - img [ref=e302]
+            - generic [ref=e306]:
+              - heading "Dr. Raj Sharma" [level=4] [ref=e307]
+              - paragraph [ref=e308]: M.Ch.
+              - paragraph [ref=e309]: 12+ Years
+            - generic [ref=e310]: Available
+          - generic [ref=e311]:
+            - img [ref=e312]
+            - generic [ref=e316]: Urology
+          - generic [ref=e317]:
+            - img [ref=e318]
+            - generic [ref=e321]: 10AM - 3PM
+          - button "Book Appointment" [ref=e322]:
+            - generic [ref=e323]: Book Appointment
+            - img [ref=e324]
+        - generic [ref=e326]:
+          - generic [ref=e327]:
+            - img [ref=e329]
+            - generic [ref=e333]:
+              - heading "Dr. Priya Mehta" [level=4] [ref=e334]
+              - paragraph [ref=e335]: MD, DGO
+              - paragraph [ref=e336]: 14+ Years
+            - generic [ref=e337]: Available
+          - generic [ref=e338]:
+            - img [ref=e339]
+            - generic [ref=e343]: Gynecology
+          - generic [ref=e344]:
+            - img [ref=e345]
+            - generic [ref=e348]: 9AM - 4PM
+          - button "Book Appointment" [ref=e349]:
+            - generic [ref=e350]: Book Appointment
+            - img [ref=e351]
+        - generic [ref=e353]:
+          - generic [ref=e354]:
+            - img [ref=e356]
+            - generic [ref=e360]:
+              - heading "Dr. Amit Shah" [level=4] [ref=e361]
+              - paragraph [ref=e362]: MS, DNB
+              - paragraph [ref=e363]: 10+ Years
+            - generic [ref=e364]: Available
+          - generic [ref=e365]:
+            - img [ref=e366]
+            - generic [ref=e370]: Orthopedics
+          - generic [ref=e371]:
+            - img [ref=e372]
+            - generic [ref=e375]: 10AM - 5PM
+          - button "Book Appointment" [ref=e376]:
+            - generic [ref=e377]: Book Appointment
+            - img [ref=e378]
+        - generic [ref=e380]:
+          - generic [ref=e381]:
+            - img [ref=e383]
+            - generic [ref=e387]:
+              - heading "Dr. Kavita Joshi" [level=4] [ref=e388]
+              - paragraph [ref=e389]: MD, DCH
+              - paragraph [ref=e390]: 11+ Years
+            - generic [ref=e391]: Available
+          - generic [ref=e392]:
+            - img [ref=e393]
+            - generic [ref=e397]: Pediatrics
+          - generic [ref=e398]:
+            - img [ref=e399]
+            - generic [ref=e402]: 9AM - 3PM
+          - button "Book Appointment" [ref=e403]:
+            - generic [ref=e404]: Book Appointment
+            - img [ref=e405]
+        - generic [ref=e407]:
+          - generic [ref=e408]:
+            - img [ref=e410]
+            - generic [ref=e414]:
+              - heading "Dr. Vikram Singh" [level=4] [ref=e415]
+              - paragraph [ref=e416]: DM
+              - paragraph [ref=e417]: 16+ Years
+            - generic [ref=e418]: Available
+          - generic [ref=e419]:
+            - img [ref=e420]
+            - generic [ref=e424]: Neurology
+          - generic [ref=e425]:
+            - img [ref=e426]
+            - generic [ref=e429]: 11AM - 4PM
+          - button "Book Appointment" [ref=e430]:
+            - generic [ref=e431]: Book Appointment
+            - img [ref=e432]
+        - generic [ref=e434]:
+          - generic [ref=e435]:
+            - img [ref=e437]
+            - generic [ref=e441]:
+              - heading "Dr. Anjali Reddy" [level=4] [ref=e442]
+              - paragraph [ref=e443]: MD
+              - paragraph [ref=e444]: 8+ Years
+            - generic [ref=e445]: Available
+          - generic [ref=e446]:
+            - img [ref=e447]
+            - generic [ref=e451]: Dermatology
+          - generic [ref=e452]:
+            - img [ref=e453]
+            - generic [ref=e456]: 10AM - 5PM
+          - button "Book Appointment" [ref=e457]:
+            - generic [ref=e458]: Book Appointment
+            - img [ref=e459]
+        - generic [ref=e461]:
+          - generic [ref=e462]:
+            - img [ref=e464]
+            - generic [ref=e468]:
+              - heading "Dr. Suresh Kumar" [level=4] [ref=e469]
+              - paragraph [ref=e470]: MD, DM
+              - paragraph [ref=e471]: 13+ Years
+            - generic [ref=e472]: Available
+          - generic [ref=e473]:
+            - img [ref=e474]
+            - generic [ref=e478]: Gastroenterology
+          - generic [ref=e479]:
+            - img [ref=e480]
+            - generic [ref=e483]: 9AM - 2PM
+          - button "Book Appointment" [ref=e484]:
+            - generic [ref=e485]: Book Appointment
+            - img [ref=e486]
+        - generic [ref=e488]:
+          - generic [ref=e489]:
+            - img [ref=e491]
+            - generic [ref=e495]:
+              - heading "Dr. Renu Desai" [level=4] [ref=e496]
+              - paragraph [ref=e497]: MD
+              - paragraph [ref=e498]: 12+ Years
+            - generic [ref=e499]: Available
+          - generic [ref=e500]:
+            - img [ref=e501]
+            - generic [ref=e505]: Anesthesiology
+          - generic [ref=e506]:
+            - img [ref=e507]
+            - generic [ref=e510]: 24/7 On Call
+          - button "Book Appointment" [ref=e511]:
+            - generic [ref=e512]: Book Appointment
+            - img [ref=e513]
+        - generic [ref=e515]:
+          - generic [ref=e516]:
+            - img [ref=e518]
+            - generic [ref=e522]:
+              - heading "Dr. Manish Patel" [level=4] [ref=e523]
+              - paragraph [ref=e524]: MD
+              - paragraph [ref=e525]: 10+ Years
+            - generic [ref=e526]: Available
+          - generic [ref=e527]:
+            - img [ref=e528]
+            - generic [ref=e532]: Radiology
+          - generic [ref=e533]:
+            - img [ref=e534]
+            - generic [ref=e537]: 8AM - 8PM
+          - button "Book Appointment" [ref=e538]:
+            - generic [ref=e539]: Book Appointment
+            - img [ref=e540]
+        - generic [ref=e542]:
+          - generic [ref=e543]:
+            - img [ref=e545]
+            - generic [ref=e549]:
+              - heading "Dr. Pooja Shah" [level=4] [ref=e550]
+              - paragraph [ref=e551]: MS
+              - paragraph [ref=e552]: 9+ Years
+            - generic [ref=e553]: Available
+          - generic [ref=e554]:
+            - img [ref=e555]
+            - generic [ref=e559]: Ophthalmology
+          - generic [ref=e560]:
+            - img [ref=e561]
+            - generic [ref=e564]: 10AM - 4PM
+          - button "Book Appointment" [ref=e565]:
+            - generic [ref=e566]: Book Appointment
+            - img [ref=e567]
+    - generic [ref=e570]:
+      - generic [ref=e571]:
+        - heading "Our Gallery" [level=2] [ref=e572]
+        - paragraph [ref=e573]: Take a virtual tour of our world-class medical facilities
+      - generic [ref=e574]:
+        - img "Orange Hospital - Navsari" [ref=e575]
+        - generic [ref=e576]:
+          - heading "Orange Hospital" [level=3] [ref=e577]
+          - paragraph [ref=e578]: Thakor Wadi Street, Station Road, Navsari
+      - generic [ref=e579]:
+        - generic [ref=e580]:
+          - img "Emergency Services" [ref=e581]
+          - generic [ref=e583]:
+            - paragraph [ref=e584]: Emergency Services
+            - paragraph [ref=e585]: 24/7 Available
+        - generic [ref=e586]:
+          - img "Advanced Diagnostics" [ref=e587]
+          - generic [ref=e589]:
+            - paragraph [ref=e590]: Advanced Diagnostics
+            - paragraph [ref=e591]: State-of-the-art
+        - generic [ref=e592]:
+          - img "Expert Care" [ref=e593]
+          - generic [ref=e595]:
+            - paragraph [ref=e596]: Expert Care
+            - paragraph [ref=e597]: Qualified Doctors
+  - contentinfo [ref=e598]:
+    - generic [ref=e599]:
+      - generic [ref=e600]:
+        - generic [ref=e601]:
+          - generic [ref=e602]:
+            - img [ref=e604]
+            - generic [ref=e606]:
+              - heading "Orange Hospital" [level=3] [ref=e607]
+              - paragraph [ref=e608]: Navsari, Gujarat
+          - paragraph [ref=e609]: We're here when you need us for every care in the world. Advanced medical care and dedicated teams leading the way to better medicine.
+          - link "Orange Hospital Location Thakor Wadi Street, Station Road, Navsari" [ref=e610] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/Orange+Hospital/@20.9490764,72.91556,19z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79155d2760f:0x83a44145131c8946!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11h0by8kg?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D
+            - iframe [ref=e612]:
+              
+            - paragraph [ref=e613]:
+              - img [ref=e614]
+              - text: Thakor Wadi Street, Station Road, Navsari
+        - generic [ref=e617]:
+          - heading "Quick Links" [level=4] [ref=e618]
+          - list [ref=e619]:
+            - listitem [ref=e620]:
+              - button "Patient Portal" [ref=e621]:
+                - img [ref=e622]
+                - text: Patient Portal
+            - listitem [ref=e624]:
+              - button "Find a Doctor" [ref=e625]:
+                - img [ref=e626]
+                - text: Find a Doctor
+            - listitem [ref=e628]:
+              - button "Our Facilities" [ref=e629]:
+                - img [ref=e630]
+                - text: Our Facilities
+            - listitem [ref=e632]:
+              - button "Emergency Services" [ref=e633]:
+                - img [ref=e634]
+                - text: Emergency Services
+            - listitem [ref=e636]:
+              - button "About Us" [ref=e637]:
+                - img [ref=e638]
+                - text: About Us
+            - listitem [ref=e640]:
+              - button "Gallery" [ref=e641]:
+                - img [ref=e642]
+                - text: Gallery
+        - generic [ref=e644]:
+          - heading "Facilities" [level=4] [ref=e645]
+          - list [ref=e646]:
+            - listitem [ref=e647]:
+              - button "24x7 Emergency Care" [ref=e648]:
+                - img [ref=e649]
+                - text: 24x7 Emergency Care
+            - listitem [ref=e651]:
+              - button "X-Rays & USG" [ref=e652]:
+                - img [ref=e653]
+                - text: X-Rays & USG
+            - listitem [ref=e655]:
+              - button "ECHO & TMT Test" [ref=e656]:
+                - img [ref=e657]
+                - text: ECHO & TMT Test
+            - listitem [ref=e659]:
+              - button "Dialysis Center" [ref=e660]:
+                - img [ref=e661]
+                - text: Dialysis Center
+            - listitem [ref=e663]:
+              - button "Medicine Pharmacy" [ref=e664]:
+                - img [ref=e665]
+                - text: Medicine Pharmacy
+            - listitem [ref=e667]:
+              - button "OPD Checkup" [ref=e668]:
+                - img [ref=e669]
+                - text: OPD Checkup
+        - generic [ref=e671]:
+          - heading "Contact Us" [level=4] [ref=e672]
+          - generic [ref=e673]:
+            - link "Emergency (02637) 245500" [ref=e674] [cursor=pointer]:
+              - /url: tel:02637245500
+              - img [ref=e675]
+              - generic [ref=e677]:
+                - paragraph [ref=e678]: Emergency
+                - paragraph [ref=e679]: (02637) 245500
+            - link "Landline (02637) 242200" [ref=e680] [cursor=pointer]:
+              - /url: tel:02637242200
+              - img [ref=e681]
+              - generic [ref=e683]:
+                - paragraph [ref=e684]: Landline
+                - paragraph [ref=e685]: (02637) 242200
+            - link "Mobile +91 63549 10363" [ref=e686] [cursor=pointer]:
+              - /url: tel:916354910363
+              - img [ref=e687]
+              - generic [ref=e689]:
+                - paragraph [ref=e690]: Mobile
+                - paragraph [ref=e691]: +91 63549 10363
+            - link "Email drbbh@yahoo.in" [ref=e692] [cursor=pointer]:
+              - /url: mailto:drbbh@yahoo.in
+              - img [ref=e693]
+              - generic [ref=e696]:
+                - paragraph [ref=e697]: Email
+                - paragraph [ref=e698]: drbbh@yahoo.in
+      - generic [ref=e700]:
+        - paragraph [ref=e701]: © 2026 Orange Hospital. All rights reserved.
+        - generic [ref=e702]:
+          - button "Privacy Policy" [ref=e703]
+          - button "Terms of Service" [ref=e704]
+          - button "Accessibility" [ref=e705]

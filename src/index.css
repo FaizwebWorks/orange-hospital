@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  
+  --color-brand-orange: #FF6B35;
+  --color-brand-orange-light: #FF8F66;
+  --color-brand-orange-dark: #E55A2B;
+  
+  --color-trust-teal: #0D9488;
+  --color-trust-teal-light: #14B8A6;
+  --color-trust-teal-dark: #0F766E;
+  
+  --color-trust-blue: #0284C7;
+  --color-trust-blue-light: #38BDF8;
+  --color-trust-blue-dark: #0369A1;
+  
+  --color-surface-white: #FAFBFC;
+  --color-surface-cream: #F8F7F4;
+  --color-surface-card: #FFFFFF;
+  
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #64748B;
+  --color-text-muted: #94A3B8;
+  
+  --color-emergency-red: #DC2626;
+  --color-emergency-red-light: #EF4444;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+body {
+  background-color: var(--color-surface-white);
+  color: var(--color-text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-surface-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-text-muted);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-secondary);
+}
+
+@media (max-width: 640px) {
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    background: transparent;
+  }
+}
+
+@keyframes pulse-glow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(220, 38, 38, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(220, 38, 38, 0);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
