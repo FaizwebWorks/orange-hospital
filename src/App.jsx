@@ -8,7 +8,7 @@ import {
   CheckCircle, ChevronDown, Video, Clock3, User, Circle,
   ChevronRight, Building2
 } from 'lucide-react'
-import logo from "/images/orange-logo.png"
+import logo from "/images/orange-logo.webp"
 
 const navLinks = [
   { name: 'Home', href: '#home' },
@@ -488,7 +488,7 @@ const Hero = ({ onBookAppointment, onSelectDoctor }) => {
   const [searchQuery, setSearchQuery] = useState('')
   const [searchResults, setSearchResults] = useState([])
   const [showResults, setShowResults] = useState(false)
-  const hospitalImage = '/images/orange-hospital.png'
+  const hospitalImage = '/images/orange-hospital.webp'
 
   const handleSearch = (query) => {
     setSearchQuery(query)
@@ -981,7 +981,7 @@ const Doctors = ({ onBookAppointment, selectedDoctor }) => {
 }
 
 const Gallery = () => {
-  const hospitalImage = '/images/orange-hospital.png'
+  const hospitalImage = '/images/orange-hospital.webp'
 
   return (
     <Section id="gallery" className="py-20 bg-gray-50">
@@ -1059,7 +1059,7 @@ const Footer = ({ onBookAppointment }) => {
               className="flex items-center gap-3 mb-6"
               whileHover={{ scale: 1.02 }}
             >
-            <img src={logo} alt="logo" className='h-12 w-12 object-contain' />
+              <img src={logo} alt="logo" className='h-12 w-12 object-contain' />
               <div>
                 <h3 className="text-lg font-bold">Orange Hospital</h3>
                 <p className="text-xs text-gray-400">Navsari, Gujarat</p>
