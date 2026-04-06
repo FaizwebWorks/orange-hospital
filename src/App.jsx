@@ -695,7 +695,7 @@ const Stats = () => {
             <div className="relative order-2 lg:order-1">
               <div className="relative rounded-2xl lg:rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="/images/pioneer.jpeg"
+                  src="/images/pioneer.webp"
                   alt="Dr. B.B. Hirpara"
                   className="w-full h-[300px] lg:h-[400px] object-cover"
                 />
